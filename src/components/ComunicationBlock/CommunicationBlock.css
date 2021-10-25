@@ -1,0 +1,20 @@
+.rightList {
+
+    display: flex;
+    justify-content: space-around;
+    max-width: 318px;
+    min-width: 318px;
+    height: 42px;
+    align-items: center;
+}
+
+.rightList li {
+    padding-left: 31px;
+    margin: 0;
+    list-style: none;
+}
+
+.rightList li:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}

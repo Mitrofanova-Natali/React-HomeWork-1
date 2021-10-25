@@ -1,0 +1,12 @@
+.ShortDescriptionWrapper h3{
+    font-size: 42px;
+    color: #26272d;
+}
+.ShortDescriptionWrapper p{
+    max-width: 469px;
+    font-size: 20px;
+    color: #8c8f94;
+}
+.iPhoneParagraph{
+    margin-top: 73px;
+}

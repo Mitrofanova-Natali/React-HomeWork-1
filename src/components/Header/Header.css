@@ -1,0 +1,14 @@
+.Header{
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f4f4f5;
+    padding: 44px 216px 0;
+
+}
+p{
+    font-size: 16px;
+    color: #26272d;
+}

@@ -1,0 +1,26 @@
+.wrapperFooterInformBlock .titleInformList {
+    font-size: 15px;
+    color: #26272d;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+    line-height: 1.83;
+    padding-bottom: 26px;
+}
+
+.wrapperFooterInformBlock ul {
+    list-style: none;
+}
+.wrapperFooterInformBlock{
+    min-width: 550px;
+    display: flex;
+    justify-content: space-around;
+}
+.wrapperFooterInformBlock li {
+    color: #8c8f94;
+    line-height: 2.25;
+    font-size: 16px;
+}
+.wrapperFooterInformBlock li:hover{
+    color: #000;
+    cursor: pointer;
+}

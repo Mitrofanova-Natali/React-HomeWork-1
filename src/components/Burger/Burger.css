@@ -1,0 +1,36 @@
+.BurgerLine{
+    width: 20px;
+    height: 2px;
+    background-color: #1b1c1e;
+    top: 5px;
+    position: absolute;
+}
+
+.BurgerLine::before {
+    content: "";
+    width: 20px;
+    height: 2px;
+    display: block;
+    background-color: #1b1c1e;
+    position: absolute;
+    top: -5px;
+}
+
+.BurgerLine::after {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 2px;
+    background-color: #1b1c1e;
+    position: absolute;
+    top: 5px;
+}
+.Burger{
+    min-width: 20px;
+    height: 12px;
+    position: relative;
+    top: 2px;
+}
+.Burger:hover{
+    cursor: pointer;
+}

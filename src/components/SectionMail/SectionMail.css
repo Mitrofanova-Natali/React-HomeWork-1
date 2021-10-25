@@ -1,0 +1,18 @@
+.sectionMail {
+    padding: 0 215px ;
+}
+
+.mailSectionWrapper {
+    border-bottom: solid 1px rgba(38, 39, 45, .1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 85px;
+}
+
+.mailSectionTitle {
+    font-size: 42px;
+    line-height: 1.24;
+    color: #26292c;
+}

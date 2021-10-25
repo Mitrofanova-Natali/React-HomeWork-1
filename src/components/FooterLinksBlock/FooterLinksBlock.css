@@ -1,0 +1,9 @@
+.footerLinksWrapper{
+    max-width: 245px;
+
+}
+.footerLinksText{
+    font-size: 14px;
+    color:  #8c8f94;
+    margin: 34px 0 32px;
+}

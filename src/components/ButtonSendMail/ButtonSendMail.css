@@ -1,0 +1,56 @@
+.buttonEmailWrapper {
+    display: flex;
+    width: 502px;
+    border: solid 1px;
+    border-radius: 25px;
+    justify-content: end;
+
+}
+
+.sendEmail {
+    padding-left: 20px;
+    width: 100%;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 16px;
+    color: rgba(38, 41, 44, 0.7);
+    opacity: 0.7;
+}
+
+.btnSubscribe {
+    min-width: 164px;
+    height: 42px;
+    background-color: #6fc754;
+    border-radius: 21px;
+    border: none;
+    display: flex;
+    align-items: center;
+    margin: 2px;
+    padding: 0;
+}
+
+.btnSubscribe p {
+    font-size: 16px;
+    color: #fff;
+    margin-left: 31px;
+    margin-right: 18px;
+
+}
+
+
+.btnSubscribe:hover {
+    background-color: transparent;
+    border: 1px solid #6fc754;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
+.btnSubscribe:hover  p {
+    color: #6fc754;
+}
+
+.btnSubscribe:hover .fa-arrow-right {
+    color: #6fc754;
+}
+

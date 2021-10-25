@@ -1,0 +1,45 @@
+.wrapperButtonDownload {
+    display: flex;
+    align-items: center;
+    padding: 0 20px 0;
+    border-radius: 7px;
+    background-color: #231f20;
+    height: 42px;
+    margin-bottom: 42px;
+    box-sizing: border-box;
+    width: fit-content;
+}
+
+.wrapperButtonDownload .fa-apple {
+    color: #FFF;
+}
+
+.downloadTextWrapper p {
+    color: #fff;
+    margin: 0;
+    font-size: 10px;
+    letter-spacing: .9px;
+}
+
+.downloadTextWrapper .AppStore {
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: .5px;
+
+}
+
+
+.wrapperButtonDownload:hover {
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+.wrapperButtonDownload:hover p {
+    color: black;
+}
+
+
+.wrapperButtonDownload:hover .fa-apple {
+    color: black;
+}

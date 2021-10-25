@@ -1,0 +1,13 @@
+.signatureSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.signatureSection {
+    opacity: 0.5;
+    color: #8c8f94;
+    letter-spacing: 1.9px;
+    margin-top: 0;
+}

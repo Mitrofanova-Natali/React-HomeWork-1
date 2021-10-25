@@ -1,0 +1,14 @@
+.descriptionTitle {
+    padding-top: 128px;
+    font-size: 62px;
+    color: #26272d;
+    margin: 0;
+}
+
+.descriptionText {
+    font-size: 20px;
+    color: #8c8f94;
+    max-width: 780px;
+    text-align: center;
+    margin: 40px 0 62px 0;
+}

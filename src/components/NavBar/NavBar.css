@@ -1,0 +1,23 @@
+.navBarMenu{
+    padding: 0;
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.navBarMenu li{
+    display: inline;
+    list-style: none;
+    padding-right: 41px;
+}
+.navBarMenu li:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+.navBar {
+    min-width: 318px;
+    max-width: 318px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}

@@ -1,0 +1,38 @@
+.wrapperSocialNetworksLinks{
+ width: 222px;
+    display: flex;
+    justify-content: space-between;
+}
+.wrapperSocialNetworksLinks i{
+    opacity: 0.3;
+    color: #26272d;
+}
+.wrapperSocialNetworksLinks i:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+
+.iconTwitter{
+    width: 17px;
+    height: 14px;
+}
+.iconFacebook{
+    width: 9px;
+    height: 18px;
+}
+.iconGoogle{
+    width: 24px;
+    height: 15px;
+}
+.iconTumblr{
+    width: 10px;
+    height: 16px;
+}
+.iconPinterest{
+    width: 14px;
+    height: 17px;
+}
+.iconLinkedin{
+    width: 16px;
+    height: 15px;
+}

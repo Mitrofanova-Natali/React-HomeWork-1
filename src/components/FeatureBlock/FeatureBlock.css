@@ -1,0 +1,21 @@
+.featureBlock{
+
+    max-width: 45%;
+}
+
+.fa-expeditedssl{
+    font-size: 42px;
+    color: #267df4;
+}
+.featureBlockTitle{
+    font-size: 26px;
+    color: #27272d;
+    font-weight: 300;
+    margin-top: 48px;
+    margin-bottom: 45px;
+}
+
+.featureBlockText {
+    font-size: 18px;
+    color: #8c8f94;
+}

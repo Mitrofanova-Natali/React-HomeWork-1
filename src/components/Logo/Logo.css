@@ -1,0 +1,17 @@
+.logo {
+    display: inline;
+    text-align: center;
+    cursor: default;
+}
+
+.logo p {
+    margin-left: 0;
+    margin-right: 0;
+    display: inline;
+    font-size: 16px;
+    color: #26272d;
+}
+
+.new {
+    font-weight: bold;
+}
